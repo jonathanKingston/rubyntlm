@@ -61,6 +61,4 @@ Rake::GemPackageTask.new(spec) do |p|
   p.need_zip = true
   p.package_dir = 'build'
 end
-
-  
   
